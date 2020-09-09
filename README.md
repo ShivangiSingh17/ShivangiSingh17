@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: One thing in my bucketlist is to complete my bucketlist.
 
-<img align="right" width="200" height="200" src="https://github.com/ShivangiSingh17/ShivangiSingh/blob/main/octocat-rotating.gif?raw=true"></a>
+<img align="right" width="200" height="200" src="https://github.com/ShivangiSingh17/ShivangiSingh17/blob/master/octocat-rotating.gif?raw=true"></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Find me around the web 🌎, I'll be happy to meet you more!</em></b> 😊
 
@@ -18,4 +18,6 @@
 <details>
 <summary>:zap: Github Stats</summary>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ShivangiSingh17&show_icons=true alt=ShivangiSingh17 /> </p>
+
+
 
