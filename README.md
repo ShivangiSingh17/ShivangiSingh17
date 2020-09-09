@@ -8,7 +8,7 @@
 
 <img align="right" width="200" height="200" src="https://github.com/ShivangiSingh17/ShivangiSingh17/blob/master/octocat-rotating.gif?raw=true"></a>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>Find me around the web 🌎, I'll be happy to meet you more!</em></b> 😊
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em>**Find me around the web 🌎**</em></b> 
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-shivangisingh17-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivangisingh17)
 [![twitter badge](https://img.shields.io/badge/twitter-@Shivangi172-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/Shivangi172)
